@@ -14,8 +14,6 @@ A simple clone of the classic Chrome Dino Game built with Unity.
 | Action | Key |
 |--------|-----|
 | Jump | `Space` or `Up Arrow` |
-| Duck | `Down Arrow` |
-| Restart | `Enter` (after game over) |
 
 ## ✨ Features
 
@@ -32,5 +30,3 @@ A simple clone of the classic Chrome Dino Game built with Unity.
 
 - **Unity** (version: 2021.3 LTS or newer)
 - **C#** for game logic
-
-## 📁 Project Structure
